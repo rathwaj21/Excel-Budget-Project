@@ -34,6 +34,9 @@ I created this project using a given PDF with tasks covering household expenses,
 - Visualizing data with bar charts for clear reporting and decision making.
 
 ## 📂 Files Included
+
+[View the complete Excel workbook with all tasks solved](./Excel_Budget_Project.xlsx)
+
 - `Excel_Budget_Project.xlsx` — The complete Excel workbook with all tasks solved.
 - `Tim & Susan's Budget Tasks.pdf` — The original instructions PDF used as the data source.
 
