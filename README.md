@@ -36,6 +36,7 @@ I created this project using a given PDF with tasks covering household expenses,
 ## 📂 Files Included
 
 [View the complete Excel workbook with all tasks solved](./Excel_Budget_Project.xlsx)
+
 [View the original instructions PDF used as the data source](./Tim_&_Susan's_Budget_Tasks.pdf)
 
 ---
